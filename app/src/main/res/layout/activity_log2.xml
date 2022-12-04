@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".MainActivity"
+    >
+    <TextView
+        android:layout_weight="2"
+        android:gravity="center"
+        android:id="@+id/text"
+        android:textSize="50sp"
+        android:textColor="#f0f"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        />
+    <com.hanyuzhou.accountingapp.imgePassWord
+        android:clickable="true"
+        android:id="@+id/lock_pattern_view"
+        android:layout_weight="8"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:focusable="true" />
+
+</LinearLayout>

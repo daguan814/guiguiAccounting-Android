@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="order">
+        <item>一级分类</item>
+        <item>二级分类</item>
+        <item>成员</item>
+        <item>账户</item>
+    </string-array>
+</resources>
