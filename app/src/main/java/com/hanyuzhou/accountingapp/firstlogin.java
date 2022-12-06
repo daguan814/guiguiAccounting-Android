@@ -70,7 +70,7 @@ public class firstlogin extends AppCompatActivity {
                                 Log.d("code", code);
                                 //如果查询到了这个机器码,不做任何跳转
                                 if (code.equals("200")) {
-                                    Toast.makeText(firstlogin.this, msg, Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(firstlogin.this, "激活成功！", Toast.LENGTH_SHORT).show();
                                     Intent intent = new Intent();
                                     intent.setClass(firstlogin.this, MainActivity.class);
                                     startActivity(intent);
