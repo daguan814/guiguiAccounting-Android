@@ -55,7 +55,7 @@ public class SetActivity extends AppCompatActivity {
                             Log.d("code", code);
                             //如果查询到了这个机器码，弹出提示信息，激活状态没了。
                             if (code.equals("200")) {
-                                Toast.makeText(SetActivity.this, msg, Toast.LENGTH_SHORT).show();
+                                Toast.makeText(SetActivity.this, "释放激活码成功！", Toast.LENGTH_SHORT).show();
 
                                 //如果没有查到了这个机器码，跳转到激活页面
                             } else if (code.equals("100")) {

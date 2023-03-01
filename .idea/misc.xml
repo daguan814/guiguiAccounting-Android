@@ -18,7 +18,11 @@
         <entry key="app/src/main/res/layout/activity_set.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_set2.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_statistics.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/activity_user_set.xml" value="0.3578125" />
         <entry key="app/src/main/res/layout/class1.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/drawerlayout_main.xml" value="0.3578125" />
+        <entry key="app/src/main/res/layout/list_cell.xml" value="0.3578125" />
+        <entry key="app/src/main/res/layout/list_cell2.xml" value="0.3578125" />
         <entry key="app/src/main/res/layout/listview.xml" value="0.31521739130434784" />
         <entry key="app/src/main/res/menu/menu_1.xml" value="0.3729166666666667" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2365" />
